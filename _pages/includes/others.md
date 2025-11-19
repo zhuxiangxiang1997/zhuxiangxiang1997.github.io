@@ -1,9 +1,9 @@
 
 # 📖 Educations
-- *2012.09 - 2015.06*, **Senior High School**, Jiyang Senior High School, Suzhou, Jiangsu.
-- *2015.09 - 2019.06*, **Undergraduate**, College of Civil Engineering, Nanjing Forestry University, Nanjing, Jiangsu.
-- *2019.09 - 2022.06*, **Master of Science**, School of Qilu Transportation, Shandong University, Jinan, Shandong.
-- *2022.09 - 2026.06*, **Doctor of Philosophy**, School of Ocean and Civil Engineering, Shanghai Jiao Tong University, Shanghai.
+- *2012.09 - 2015.06*, **Senior High School**, *Jiyang Senior High School*, Suzhou, Jiangsu.
+- *2015.09 - 2019.06*, **Undergraduate**, College of Civil Engineering, *Nanjing Forestry University*, Nanjing, Jiangsu.
+- *2019.09 - 2022.06*, **Master of Science**, School of Qilu Transportation, *Shandong University*, Jinan, Shandong.
+- *2022.09 - 2026.06*, **Doctor of Philosophy**, School of Ocean and Civil Engineering, *Shanghai Jiao Tong University*, Shanghai.
 
 <!--# 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
