@@ -4,7 +4,7 @@
 Shaoshuai Shi, **Xiangxiang Zhu**(✉), Zhiguo Cao, Lin Bu, Zhijie Wen(✉), Zongqing Zhou, Weidong Guo, Ruijie Zhao. [Experimental Study of Seepage Characteristics of Filling Structures in Deep Roadway](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/9517011). *Geofluids*, 2022(1), 9517011. (SCI, Q2, 中科院4区, IF=1.2).
 
 ## 🎙 [2025]
-DA Ziqian, LYU Gang, YU Chenyun, HU Xiaoyue and ZHU Xiangxiang. [Study on Evolution Law of Seepage Instability and Disaster Mechanism of Water Inrush in Tunnels Passing Through Filling Media Strata](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh). *Railway Standard Design*, 2025, 69(10): 249-255.
+DA Ziqian, LYU Gang, YU Chenyun, HU Xiaoyue and **ZHU Xiangxiang**. [Study on Evolution Law of Seepage Instability and Disaster Mechanism of Water Inrush in Tunnels Passing Through Filling Media Strata](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh). *Railway Standard Design*, 2025, 69(10): 249-255.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
