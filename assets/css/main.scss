@@ -107,3 +107,8 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.no-underline {
+  text-decoration: none !important;
+  border-bottom: none !important;  /* 有些主题是用下边框做“下划线”的 */
+}
