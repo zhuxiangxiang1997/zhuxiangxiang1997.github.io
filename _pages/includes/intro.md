@@ -1,4 +1,4 @@
-I am currently working on deep learning–based fluid–structure interaction (FSI) modeling, focusing on combining data-driven methods with traditional numerical simulation for flow–structure coupling problems. If you are interested in any form of academic collaboration, please feel free to email me at [zhuxiangxiang@sjtu.edu.cn].
+I am currently working on deep learning–based fluid–structure interaction (FSI) modeling, focusing on combining data-driven methods with traditional numerical simulation for flow–structure coupling problems. If you are interested in any form of academic collaboration, please feel free to email me at [zhuxiangxiang@sjtu.edu.cn](zhuxiangxiang@sjtu.edu.cn).
 
 I graduated from [College of civil engineering](https://tumu.njfu.edu.cn/), Nanjing Forestry University (南京林业大学土木工程学院) with a bachelor's degree and from the [School of Qilu Transportation](https://www.qltrans.sdu.edu.cn/), Shandong University (山东大学齐鲁交通学院) with a master's degree, advised by [Shaoshuai Shi (石少帅)](https://scholar.google.com/citations?user=leG6CBoAAAAJ&hl=en).
 
