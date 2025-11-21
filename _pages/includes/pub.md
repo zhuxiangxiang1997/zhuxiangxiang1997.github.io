@@ -11,7 +11,7 @@
     <div class="paper-box-image">
       <div>
         <div class="badge">GFL 2022</div>
-        <img src="/mnt/data/e18d1e3e-5408-44ac-a314-80005ed59829.png" alt="experiment image">
+        <img src="images/experimental_results.png" alt="experiment image">
       </div>
     </div>
 
