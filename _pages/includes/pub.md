@@ -10,7 +10,7 @@
     </div>
   </div>
   <div class='paper-box-text pink-links' markdown="1">
-[1] **Shaoshuai Shi**, Xiangxiang Zhu<sup>✉</sup>, Zhiguo Cao, Lin Bu, **Zhijie Wen**<sup>✉</sup>, Zongqing Zhou, Weidong Guo, Ruijie Zhao. [**Experimental study of seepage characteristics of filling structures in deep roadway**](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/9517011){:target="_blank"}. <span class="blue-text"> <strong><em>Geofluids</em></strong>, 2022(1): 9517011. (SCI, Q2, 中科院四区, IF=1.2)</span>.
+[1] Shaoshuai Shi, **Xiangxiang Zhu**<sup>✉</sup>, Zhiguo Cao, Lin Bu, Zhijie Wen<sup>✉</sup>, Zongqing Zhou, Weidong Guo, Ruijie Zhao. [**Experimental study of seepage characteristics of filling structures in deep roadway**](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/9517011){:target="_blank"}. <span class="blue-text"> <strong><em>Geofluids</em></strong>, 2022(1): 9517011. (SCI, Q2, 中科院四区, IF=1.2)</span>.
   </div>
 </div>
 
