@@ -104,7 +104,7 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: #0000ff;
     font-size: .8em;
 }
 
@@ -114,11 +114,7 @@ h1:before, .anchor:before {
     box-shadow: none !important; /* 有的主题用阴影来模拟下划线 */ 
 }
 
-.page__content a {
-  color: #0000ff !important; //粉色链接
-  text-decoration: none;
-  font-weight: bold;
-}
+
 
 .blue-text {
   color: #ff0dab !important; /* 粉红色 */
