@@ -78,8 +78,10 @@
             
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            width: 100%;
+            max-width: 100%;
+            //min-width: 200px;
+           // max-width: 40%;
             order: 2; // 保持图片在下
         }
         
