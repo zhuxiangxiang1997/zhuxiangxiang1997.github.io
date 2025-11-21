@@ -29,7 +29,7 @@
 
 ## 🎉**Year 2025**🎉
 <div class='paper-box'>
-  <div class='paper-box-text pink-links' markdown="1">
+  <div class='paper-box-text pink-links'>
     答子虔, 吕刚, 于晨昀, 胡小悦, **祝向向**. [隧道穿越充填介质地层渗透失稳演化规律与突涌水灾变机理研究](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}.
     {::nomarkdown}
     <span class="blue-text"> <strong><em>铁道标准设计</em></strong>, 2025, 69(10): 249-255. (北大核心)</span>.
