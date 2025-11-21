@@ -99,19 +99,19 @@
   border-bottom: 1px #efefef solid;
   padding: 2em 0;
 
-  .paper-box-text {
+ .paper-box-text {
     width: 100%;
     margin-bottom: 1.5em;
   }
 
-  .paper-box-bottom {
+ .paper-box-bottom {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
     width: 100%;
 
-    .paper-box-image {
+ .paper-box-image {
       width: 50%;
       display: flex;
       justify-content: center;
@@ -123,7 +123,7 @@
       }
     }
 
-    .paper-box-text2 {
+ .paper-box-text2 {
       width: 50%;
       padding-left: 1em;
       display: flex;
