@@ -40,58 +40,111 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.paper-box {
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: column;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+//.paper-box {
+//    display: flex;
+ //   justify-content: left;
+   // align-items: center;
+    //flex-direction: column;
+   // flex-wrap: wrap;
+//    border-bottom: 1px #efefef solid;
+ //   padding: 2em 0 2em 0;
     
-    .paper-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 2;
-        img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
-    }
+//    .paper-box-image{
+//        justify-content: center;
+ //       display: flex;
+ //       width: 100%;
+ //       order: 2;
+ //       img {
+ //           max-width: 400px;
+ //           box-shadow: 3px 3px 6px #888;
+  //          object-fit: cover;
+  //      }
+  //  }
     
-    .paper-box-text{
-        max-width: 100%;
-        order: 1;
-    }
+ //   .paper-box-text{
+ //       max-width: 100%;
+ //       order: 1;
+ //   }
     
-    @include breakpoint($medium) {
+ //   @include breakpoint($medium) {
         // 在中等屏幕上保持垂直排列
-        flex-direction: column;
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 0em;
-            width: 100%;
-            max-width: 100%;
-            order: 1; //保持文字在上
+//        flex-direction: column;
+ //       .paper-box-text{
+ //           justify-content: left;
+ //           padding-left: 0em;
+//            width: 100%;
+ //           max-width: 100%;
+ //           order: 1; //保持文字在上
             
-        .paper-box-image{
-            justify-content: left;
-            width: 100%;
-            max-width: 100%;
+//        .paper-box-image{
+ //           justify-content: left;
+ //           width: 100%;
+ //           max-width: 100%;
             //min-width: 200px;
            // max-width: 40%;
-            order: 2; // 保持图片在下
-        }
+ //           order: 2; // 保持图片在下
+  //      }
         
 
-        }
+ //       }
 
+//    }
+
+
+//}
+
+.paper-box {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0;
+
+  .paper-box-text {
+    width: 100%;
+    margin-bottom: 1.5em;
+  }
+
+  .paper-box-bottom {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+
+    .paper-box-image {
+      width: 50%;
+      display: flex;
+      justify-content: center;
+
+      img {
+        max-width: 100%;
+        box-shadow: 3px 3px 6px #888;
+        object-fit: cover;
+      }
     }
 
+    .paper-box-text2 {
+      width: 50%;
+      padding-left: 1em;
+      display: flex;
+      align-items: center;
+    }
+  }
 
+  @include breakpoint($medium) {
+    .paper-box-bottom {
+      flex-direction: column;
+
+      .paper-box-image,
+      .paper-box-text2 {
+        width: 100%;
+        padding-left: 0;
+        margin-bottom: 1em;
+      }
+    }
+  }
 }
+
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
