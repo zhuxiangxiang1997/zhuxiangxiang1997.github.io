@@ -2,23 +2,30 @@
 # 📜 Publications 
 ## 🎉**Year 2022**🎉
 <div class='paper-box'>
-  <!-- 第一段文字内容 100% -->
-  <div class='paper-box-text' markdown="1">
-答子虔, 吕刚, 于晨昀, 胡小悦, **祝向向**. [隧道穿越充填介质地层渗透失稳演化规律与突涌水灾变机理研究](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}. ***铁道标准设计***, 2025, 69(10): 249-255. (北大核心)
+  <div class='paper-box-text'>
+    <strong>答子虔</strong>, 吕刚, 于晨盼, 胡小悦, <strong>祝向向</strong>. 
+    <a href="#">隧道穿越充填介质地层渗透失稳演化规律与突涌水灾变机理研究</a>. 
+    <em>铁道标准设计</em>, 2025, 69(10): 249-255. (北大核心)
   </div>
+
   <div class="paper-box-bottom">
     <div class="paper-box-image">
       <div>
         <div class="badge">GFL 2022</div>
-        <img src="images/experimental_study.png" alt="sym">
+        <img src="images/experimental_study" alt="sym">
       </div>
     </div>
 
     <div class="paper-box-text2">
-      <p>Some text here...</p>
+      <p>
+        This figure shows the experimental apparatus for seepage simulation, including a confining pressure intake, a particle loss system, and sensors for data collection.
+      </p>
     </div>
   </div>
 </div>
+
+</body>
+</html>
 
 ## 🎉**Year 2025**🎉
 答子虔, 吕刚, 于晨昀, 胡小悦, **祝向向**. [隧道穿越充填介质地层渗透失稳演化规律与突涌水灾变机理研究](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}. ***铁道标准设计***, 2025, 69(10): 249-255. (北大核心)
