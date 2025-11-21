@@ -1,18 +1,31 @@
 
 # 📜 Publications 
 ## 🎉**Year 2022**🎉
+
+
 <div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+  <!-- 第一段文字内容 100% -->
+  <div class='paper-box-text' markdown="1">
+    **Shaoshuai Shi**, Xiangxiang Zhu<sup>✉</sup>, ...
+    <br>
+    [**Experimental study...**](https://...)  
+    *Geofluids*, 2022(1): 9517011. ...
+  </div>
 
-**Shaoshuai Shi**, Xiangxiang Zhu<sup>✉</sup>, Zhiguo Cao, Lin Bu, **Zhijie Wen**<sup>✉</sup>, Zongqing Zhou, Weidong Guo, Ruijie Zhao. [**Experimental study of seepage characteristics of filling structures in deep roadway**](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/9517011){:target="_blank"}. ***Geofluids***, 2022(1): 9517011. (SCI, Q2, 中科院四区, IF=1.2)
+  <!-- 下半部分：图片 + 第二段文字并排 -->
+  <div class='paper-box-bottom'>
+    <div class='paper-box-image'>
+      <div>
+        <div class="badge">GFL 2022</div>
+        <img src='images/experimental_study.png' alt="sym" width="100%">
+      </div>
+    </div>
 
-</div>
-<div class='paper-box-image'>
-<div>
-<div class="badge">GFL 2022</div>
-<img src='images/experimental_study.png' alt="sym" width="100%">
-</div>
-</div>
+  <div class='paper-box-text2'>
+      <!-- 第二段补充说明或文字 -->
+      <p>This figure shows the experimental apparatus for seepage simulation, including a confining pressure intake, a particle loss system, and sensors for data collection.</p>
+    </div>
+  </div>
 </div>
 
 ## 🎉**Year 2025**🎉
