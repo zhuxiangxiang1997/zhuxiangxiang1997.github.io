@@ -92,77 +92,65 @@
 
 
 //}
+.paper-box {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0;
+}
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Paper Box Demo</title>
-  <style>
-    .paper-box {
-      display: flex;
-      flex-direction: column;
-      border-bottom: 1px #efefef solid;
-      padding: 2em 0;
-      font-family: sans-serif;
-    }
+.paper-box-text {
+  width: 100%;
+  margin-bottom: 1.5em;
+}
 
-    .paper-box-text {
-      width: 100%;
-      margin-bottom: 1.5em;
-    }
+.paper-box-bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  gap: 1em;
+  width: 100%;
+}
 
-    .paper-box-bottom {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-      align-items: flex-start;
-      flex-wrap: nowrap;
-      width: 100%;
-      gap: 1em;
-    }
+.paper-box-image {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
 
-    .paper-box-image {
-      width: 50%;
-      display: flex;
-      justify-content: center;
-    }
+.paper-box-image img {
+  max-width: 100%;
+  box-shadow: 3px 3px 6px #888;
+  object-fit: cover;
+}
 
-    .paper-box-image img {
-      max-width: 100%;
-      box-shadow: 3px 3px 6px #888;
-      object-fit: cover;
-    }
+.paper-box-text2 {
+  width: 50%;
+  display: flex;
+  align-items: center;
+}
 
-    .paper-box-text2 {
-      width: 50%;
-      display: flex;
-      align-items: center;
-    }
+.badge {
+  background-color: #00369f;
+  color: white;
+  padding: 0.3em 0.8em;
+  font-size: 0.8em;
+  margin-bottom: 0.5em;
+  display: inline-block;
+}
 
-    .badge {
-      background-color: #00369f;
-      color: white;
-      padding: 0.3em 0.8em;
-      font-size: 0.8em;
-      margin-bottom: 0.5em;
-      display: inline-block;
-    }
+/* 响应式：在小屏幕上垂直排列 */
+@media screen and (max-width: 768px) {
+  .paper-box-bottom {
+    flex-direction: column;
+  }
 
-    /* 响应式支持：在窄屏下图片和文字上下排列 */
-    @media screen and (max-width: 768px) {
-      .paper-box-bottom {
-        flex-direction: column;
-      }
-
-      .paper-box-image,
-      .paper-box-text2 {
-        width: 100%;
-      }
-    }
-  </style>
-</head>
-<body>
+  .paper-box-image,
+  .paper-box-text2 {
+    width: 100%;
+  }
+}
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
