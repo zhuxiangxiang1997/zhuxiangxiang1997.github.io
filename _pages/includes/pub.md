@@ -20,7 +20,7 @@
 
 <!-- 文章3 -->
 <div class='paper-box-text pink-links' markdown="1">
-[3] Xi Xiao, Weidong Guo, **Xiangxiang Zhu** and Shaoshuai Shi<sup>✉</sup>. [Evolution mechanism of water inrush in filling structures of deep-buried tunnels under thermo-hydro-mechanical coupling](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}. <span class="blue-text"> <strong><em>Journal of Mountain Science</em></strong></span>, 2025, 69(10): 249-255. (SCI, Q3, 中科院四区, IF=2.5)
+[3] Xi Xiao, Weidong Guo, **Xiangxiang Zhu** and Shaoshuai Shi<sup>✉</sup>. [Evolution mechanism of water inrush in filling structures of deep-buried tunnels under thermo-hydro-mechanical coupling](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}. <span class="pink-text"> <strong><em>Journal of Mountain Science</em></strong></span>, 2025, 69(10): 249-255. (SCI, Q3, 中科院四区, IF=2.5)
 </div>
 
 <!-- 文章4 -->
