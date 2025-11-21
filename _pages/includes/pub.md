@@ -36,6 +36,7 @@ Xi Xiao, Weidong Guo, **Xiangxiang Zhu** and Shaoshuai Shi(✉). [Evolution mech
 
 **Xiangxiang Zhu**, Haokai Wu, Baiyang Song, Jing Wang and Yong Cao(✉). Effects of wake interference on icing characteristics and performance evaluation for rotating vertical axis wind turbines under icing conditions. ***Energy***, 2025 (SCI, Q1, 中科院一区TOP, IF=9.1, Under review).
 
+<div class="paper-box-text pink-links">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2025</div><img src='images/SC-CAE-NNM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -43,6 +44,7 @@ Xi Xiao, Weidong Guo, **Xiangxiang Zhu** and Shaoshuai Shi(✉). [Evolution mech
 
 [🌟]
   - This research project has been carried out under the guidance of [Prof. Shiyi Chen (陈十一)](https://person.eitech.edu.cn/gxb/csy1/main.htm), an academician of the Chinese Academy of Sciences.
+</div>
 </div>
 </div>
 
