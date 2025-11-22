@@ -40,7 +40,7 @@
 [5] **Xiangxiang Zhu**, Shanwu Li<sup>✉</sup>, [Shengqi Zhang](https://scholar.google.com/citations?user=BXTC31AAAAAJ&hl=en), Shubin Fu, Zhiping Mao, Yongchao Yang<sup>✉</sup> and [Shiyi Chen](https://scholar.google.com/citations?user=G4cgJtgAAAAJ&hl=en). A strongly-coupled fluid-structure interaction network for predictive modeling of vortex-induced vibrations. <span class="pink-text"> <strong><em>Journal of Fluid Mechanics</em></strong></span>, 2025. (SCI, Q1, 中科院二区, IF=3.9, Under review)
 
 [🌟]
-  - This research project has been carried out under the guidance of [Prof. Shiyi Chen (陈十一)](https://person.eitech.edu.cn/gxb/csy1/main.htm), an academician of the Chinese Academy of Sciences.
+  - This research project has been carried out under the guidance of [Academician Chen Shiyi (陈十一)](https://person.eitech.edu.cn/gxb/csy1/main.htm), an academician of the Chinese Academy of Sciences.
 </div>
 </div>
 </div>
